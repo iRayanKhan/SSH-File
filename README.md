@@ -1,2 +1,2 @@
 # blank-ssh-file
-Used for headless setups usually for Raspbian. 
+Place inside linux based file systems to enable SSH without needing to connect a display
